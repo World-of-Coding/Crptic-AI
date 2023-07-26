@@ -40,6 +40,9 @@ We are also working on expanding the number of programming languages that Crptic
 
 Our ultimate goal is for Crptic AI to become a widely used tool that can help developers of all skill levels to create high-quality code more quickly and easily. We believe that Crptic AI has the potential to revolutionize the way we write and use code, and we are excited about the future of this project.
 
+# Datasets
+- Python: https://www.kaggle.com/datasets/hpd1155/crptic-python/settings
+
 # Windows Installation
 
 This will install all the necessary requirements to run CRPTIC-AI locally without

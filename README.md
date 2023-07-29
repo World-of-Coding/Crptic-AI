@@ -51,3 +51,6 @@ you have to worry about the steps.
 Only manual step you will have to do is install the latest versions of Python on your system.
 You can find it at the official python website: https://www.python.org/
 
+# Credits
+All the github pages I got the dataset data from
+HPD1155 programming the model.
